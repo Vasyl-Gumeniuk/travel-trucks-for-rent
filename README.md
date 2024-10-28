@@ -1,9 +1,6 @@
 # React Travel Trucks
 
-A web application built with React that showcases travel trucks (campers)
-available for rental. The application includes filters, a detailed camper list,
-and pagination to provide a smooth user experience for browsing available
-vehicles.
+A React web app for renting travel trucks (campers), featuring filters, a detailed camper list, and pagination for an enhanced browsing experience.
 
 ## Features
 
@@ -16,30 +13,18 @@ vehicles.
 - <b>Booking System</b>: Users can book a camper by selecting a date and filling
   in contact information.
 
-## Tech Stack
-
-- <b>React</b>: For building the UI components.
-- <b>React Router</b>: For routing between pages.
-- <b>Redux Toolkit</b>: For managing the global state, including filters and
-  campers data.
-- <b>Redux persist</b>: For persisting the global state (favorites campers).
-- <b>Formik & Yup</b>: For handling forms and validation in the booking section.
-- <b>React DatePicker</b>: For date selection with custom styles.
-- <b>React Hot Toast</b>: For displaying toast notifications.
-- <b>CSS Modules</b>: For styling components with scoped CSS.
-
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sysqwerty/react_travel_trucks.git
+git clone https://github.com/Vasyl-Gumeniuk/travel-trucks-for-rent.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd react_travel_trucks
+cd travel-trucks-for-rent
 ```
 
 3. Install the dependencies:
@@ -58,15 +43,11 @@ npm run dev
 
 ## Usage
 
-1. <b>Filtering Campers</b>: Use the filter options to refine your search based
-   on location, equipment, or vehicle type.
-2. <b>Pagination</b>: Load more campers by clicking the "Load more" button
-3. <b>View Camper Details</b>: View detailed information about the camper.
-4. <b>Booking Camper</b>: Select a camper, choose a booking date, and fill in
-   your details to reserve a camper.
-5. <b>Favorite Campers</b>: Add/remove campers from your favorites.
+1. <b>Filtering Campers</b>: Use filters for location, equipment, or type.
+2. <b>Pagination</b>: Click "Load more" for additional campers.
+3. <b>View Camper Details</b>: Access detailed camper information.
+4. <b>Booking Camper</b>: Choose a date and provide details to reserve.
+5. <b>Favorite Campers</b>: Manage your favorites list.
 6. <b>Favorites Page</b>: View your favorite campers.
 
-## License
 
-This project is licensed under the MIT License.
