@@ -1,4 +1,4 @@
-# React Travel Trucks
+# Travel Trucks for Rent
 
 A React web app for renting travel trucks (campers), featuring filters, a detailed camper list, and pagination for an enhanced browsing experience.
 
