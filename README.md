@@ -4,14 +4,10 @@ A React web app for renting travel trucks (campers), featuring filters, a detail
 
 ## Features
 
-- <b>Filtering System</b>: Allows users to filter campers based on location,
-  equipment, and vehicle type.
-- <b>Pagination</b>: Dynamically loads more campers as users click the "Load
-  more" button.
-- <b>Detailed Camper Info</b>: Each camper includes detailed specifications such
-  as location, form, transmission, and available facilities.
-- <b>Booking System</b>: Users can book a camper by selecting a date and filling
-  in contact information.
+- <b>Filtering System</b>: Filter campers by location, equipment, and type.
+- <b>Pagination</b>: Load more campers with the "Load more" button.
+- <b>Detailed Camper Info</b>: View specifications like location, transmission, and amenities.
+- <b>Booking System</b>: Select a date and submit contact info to book a camper.
 
 ## Installation
 
